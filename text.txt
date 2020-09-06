@@ -1,3 +1,1 @@
 The cat command is used to mostly ro write in files.
-q
-:q
